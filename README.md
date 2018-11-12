@@ -5,3 +5,4 @@ Typical situation me and my girlfriend came back from trip. And we have somethin
 God damn i'm programer i don't wanna look for these photos 'by hand' And this situation always repeats itself... 
 
 That's why this script.
+
